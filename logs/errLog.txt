@@ -1,0 +1,9 @@
+29102022	09:33:52	395c4092-d59e-49fd-8923-3a1dddf2aa74	Error: Not allowed by CORS
+29102022	09:59:27	5ae5d6f3-f980-4340-9505-8614deec7f6e	TypeError: req.accepted is not a function
+29102022	09:59:47	0135c1e4-ba8a-4af9-94c2-85338f82a1bf	TypeError: req.accepted is not a function
+29102022	10:00:49	aac3f362-08b1-4b35-8601-f5c6884b7010	TypeError: req.accepted is not a function
+29102022	10:02:50	82a81026-e648-454f-9528-fab9b384084e	TypeError: req.accepted is not a function
+29102022	10:04:26	9b53715f-da04-40f1-b0fd-39cca34182d5	TypeError: req.accepted is not a function
+29102022	12:40:49	f8fb71fb-6b1a-4f49-957c-b2f86fe45418	ReferenceError: employees is not defined
+29102022	12:43:00	8bdcbdc5-0dc1-4020-8b6b-6883396d3a3e	ReferenceError: employees is not defined
+29102022	12:44:14	5b0d8542-e16b-4fbe-bc52-c2120bda082b	ReferenceError: employees is not defined
